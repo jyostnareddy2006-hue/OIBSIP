@@ -26,6 +26,20 @@ Analyze unemployment rate data in India using Python and visualize the data usin
 - Matplotlib
 - Google Colab
 
+  # Car Price Prediction
+
+This project uses Machine Learning to predict car prices.
+
+Steps:
+- Data cleaning
+- Model training (Linear Regression)
+- Prediction
+
+Tools used:
+- Python
+- Pandas
+- Scikit-learn
+
 ### Dataset
 Unemployment in India Dataset
 
