@@ -1,4 +1,4 @@
-# Iris Flower Classification
+# Task-1 Iris Flower Classification
 
 ## Objective
 This project classifies iris flowers into different species using Machine Learning.
@@ -26,7 +26,7 @@ Analyze unemployment rate data in India using Python and visualize the data usin
 - Matplotlib
 - Google Colab
 
-  # Car Price Prediction
+  # Task-3 Car Price Prediction
 
 This project uses Machine Learning to predict car prices.
 
@@ -40,7 +40,7 @@ Tools used:
 - Pandas
 - Scikit-learn
 
-  # Email Spam Detection with Machine Learning
+  # Task-4 Email Spam Detection with Machine Learning
 
 This project detects whether an email is spam or not using Machine Learning.
 
