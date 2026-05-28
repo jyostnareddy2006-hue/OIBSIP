@@ -40,6 +40,21 @@ Tools used:
 - Pandas
 - Scikit-learn
 
+  # Email Spam Detection with Machine Learning
+
+This project detects whether an email is spam or not using Machine Learning.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Algorithm Used
+- Multinomial Naive Bayes
+
+## Output
+The model predicts whether the email is spam or not spam.
+
 ### Dataset
 Unemployment in India Dataset
 
